@@ -11,10 +11,13 @@ fn main() {
     // Statements here are executed when the compiled binary is called.
 
     // Print text to the console.
+
     println!("Hello World!");
 
     println("A second messgae!");
 
-    println("A third messgae!");
+    println("A third message!!");
 
+    println("A fourth message!!");
+    
 }
