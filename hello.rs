@@ -12,7 +12,7 @@ fn main() {
 
     // Print text to the console.
 
-    println!("Hello World!");
+    println("Hello World!");
 
     println("A second messgae!");
 
@@ -21,5 +21,8 @@ fn main() {
     println("A fourth message!!");
 
     println("A fifth message!!");
+
+    println("A sixth message!!");
+    //testing
     
 }
