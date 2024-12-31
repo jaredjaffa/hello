@@ -24,5 +24,7 @@ fn main() {
 
     println("A sixth message!!");
     //testing
+
+    println("Happy New Year!");
     
 }
