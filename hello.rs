@@ -23,10 +23,18 @@ fn main() {
     println("A fifth message!!");
 
     println("A sixth message!!");
-    //testing
 
+    //testing
     println("Happy New Year!");
 
-    println("HELLO WORLD! FROM BRANCH")
+    println("HELLO WORLD! FROM BRANCH");
+
+    println("MY NEW BRANCH"); // 2025
+
+    println("MY NEW ");
+
+    println("Overcome the natural man");
+
     
+
 }
